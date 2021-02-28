@@ -1,0 +1,14 @@
+.card__button{
+    width: 133px;
+    height: 31px;
+    background: #F3A5AC;
+    border-radius: 17px;
+    border: none;
+    color: #fff;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    line-height: 14px;
+    margin-bottom: 21px;
+}

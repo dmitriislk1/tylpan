@@ -1,0 +1,9 @@
+.card__subtitle{
+    width: 92%;
+    margin:0 auto 7px auto;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 16px;
+}

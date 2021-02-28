@@ -1,0 +1,16 @@
+.info__button{
+    display: block;
+    border-radius: 17px;
+    width: 133px;
+    height: 31px;
+    background-color:  #F3A5AC;
+    text-align: center;
+    font-family: Inter;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    line-height: 14px;
+    border: none;
+    color: #fff;
+    margin: 0 auto 10px auto;
+}

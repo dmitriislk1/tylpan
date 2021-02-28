@@ -1,0 +1,14 @@
+.custom__button{
+    background: #F3A5AC;
+    border-radius: 17px;
+    border:none;
+    color: #fff;
+    width: 133px;
+    height: 31px;
+    margin:auto;
+    font-family: Inter;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    line-height: 14px;
+}

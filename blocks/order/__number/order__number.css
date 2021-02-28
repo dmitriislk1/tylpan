@@ -1,0 +1,13 @@
+.order__number{
+    font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 70px;
+line-height: 82px;
+/* identical to box height */
+
+text-align: center;
+
+color: rgba(243, 165, 172, 0.3);
+margin:auto;
+}

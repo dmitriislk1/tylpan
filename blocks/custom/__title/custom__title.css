@@ -1,0 +1,9 @@
+.custom__title{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 23px;
+    text-align: center;
+    margin: 23px 0 16px 0;
+}
